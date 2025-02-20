@@ -119,7 +119,7 @@ function Footer() {
 
       <div className="w-full bg-black/5 p-4 text-center">
         © {new Date().getFullYear()} Copyright:
-        <a href="#">C8aimockinterviews</a>
+        <a href="#">c8aimockinterviews</a>
       </div>
     </footer>
   );
