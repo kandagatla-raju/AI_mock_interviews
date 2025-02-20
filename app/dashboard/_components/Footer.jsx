@@ -24,7 +24,7 @@ function Footer() {
           </a> */}
 
           <a
-            href="https://sharun266.github.io/Sharun-portfolio/"
+            href="#"
             type="button"
             target="_blank"
             className="rounded-full bg-[#55acee] p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white"
@@ -43,7 +43,7 @@ function Footer() {
           </a>
 
           <a
-            href="mailto:sharunattari266@gmail.com"
+            href="mailto:c8aimockinterviews@gmail.com"
             type="button"
             className="rounded-full bg-[#dd4b39] p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white"
             data-twe-ripple-init
@@ -97,7 +97,7 @@ function Footer() {
           </a> */}
 
           <a
-            href="https://github.com/SHARUN266"
+            href="https://github.com/kandagatla-raju"
             target="_blank"
             type="button"
             className="rounded-full bg-[#333333] p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white"
@@ -119,7 +119,7 @@ function Footer() {
 
       <div className="w-full bg-black/5 p-4 text-center">
         © {new Date().getFullYear()} Copyright:
-        <a href="#">Your Interview Buddy</a>
+        <a href="#">C8aimockinterviews</a>
       </div>
     </footer>
   );
